@@ -1,1 +1,16 @@
 output_recipeで引数にencodingを渡した
+
+他人のコード
+https://github.com/tmakiws/seataK-sezemi-2014-readable-code-2
++filename, idをその場でしていできる仕様
++sectionごとにコメントついている
++あとで属性を追加しやすそう
++id_counter, selected_id は分かり易い名前
+
+-コードの量が増えてきたら関数定義したほうがよいかも
+
+https://github.com/tmakiws/yone449-sezemi-2014-readable-code
++linenoとかreadlinesとか便利
++ARGV[].lengthで処理をわけている
+
+-インデントがそろってないとみづらい
